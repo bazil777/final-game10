@@ -82,5 +82,10 @@ https://assetstore.unity.com/packages/3d/characters/animals/free-stylized-bear-r
 https://assetstore.unity.com/packages/2d/textures-materials/wood/stylized-wood-textures-213607
 
 
+Audio Assets Links:
+https://assetstore.unity.com/packages/audio/ambient/dark-earth-102480 (DARK BIOME BG MUSIC) 
+https://assetstore.unity.com/packages/audio/music/electronic/water-ice-synth-music-115823 (SNOW BIOME BG MUSIC) 
+https://assetstore.unity.com/packages/audio/ambient/haunted-forest-free-horror-ambience-262289 (FOREST BIOME BG MUSIC) 
+https://assetstore.unity.com/packages/audio/music/world/desert-adventure-audio-pack-146911 (DESERT BIOME BG MUSIC) 
 
 Thank you for playing Boxed In!
